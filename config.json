@@ -1,6 +1,6 @@
 {
   "clientId": "1000049887909523507",
-  "token": "MTAwMDA0OTg4NzkwOTUyMzUwNw.GM4Gf1.oqKnLBktlnQsQ-vYuEURXRvijLlvkqkYiYF4Zc",
+  "token": "process.env.token"
 
   "parentOpened": "1000024295256371390",
   "Category1": "Help",
